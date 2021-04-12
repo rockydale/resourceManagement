@@ -1,4 +1,6 @@
 # database-exam
+## 介绍
+使用nuxt.js+koa+mongodb的一个人力资源管理系统
 
 ## Build Setup
 
