@@ -1,0 +1,13 @@
+.my-slider{
+    padding-top: 10px;
+    h5{
+        margin-left: 20px;
+    }
+    a{
+        text-decoration: none;
+    }
+    @at-root .el-header{
+        margin: 0;
+        padding: 0;
+    }
+}
